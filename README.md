@@ -34,3 +34,4 @@ El análisis profundiza en la garantía de red y el cumplimiento normativo:
 * **Normas ISO**
 * **Guías STIC**
 * **Sistemas de Control Industrial**
+<img width="2752" height="1536" alt="MINING" src="https://github.com/user-attachments/assets/163bbdf9-5db5-48c1-9137-6e68db1f4ee4" />
